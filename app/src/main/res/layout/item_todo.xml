@@ -18,7 +18,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentEnd="true"
         android:onClick="deleteTask"
-        android:text="Atlikta"
+        android:text="Istrinti"
         />
 
 </RelativeLayout>
